@@ -21,7 +21,10 @@ This script automatically generates multiple Ethereum wallets using `ethers.js` 
 
 ### 1. Create the script file
 
-Save the script as `wallet-generator.js`.
+Save the script/download or using git fiture`git clone`
+```bash
+git clone https://github.com/Shiirookami/create-evm-wallet.git
+
 
 ### 2. Initialize and install dependencies
 
@@ -30,3 +33,4 @@ Run the following commands in your terminal:
 ```bash
 npm init -y
 npm install ethers
+node main.js
