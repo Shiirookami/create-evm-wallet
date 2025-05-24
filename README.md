@@ -1,6 +1,6 @@
 # EVM Wallet Generator
 
-This script automatically generates multiple Ethereum wallets using `ethers.js` and saves them in a structured format to a file named `accounts.txt`.
+This script automatically generates multiple Ethereum wallets using `ethers` and saves them in a structured format to a file named `accounts.txt`.
 
 ---
 
