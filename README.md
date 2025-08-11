@@ -6,11 +6,11 @@ This script automatically generates multiple Ethereum wallets using `ethers` and
 
 ## 📦 Features
 
-- Generates Ethereum wallets including:
+Generates Ethereum wallets including:
   - **Private Key**
   - **Seed Phrase (Mnemonic)**
   - **Wallet Address**
-- Saves all generated data into `accounts.txt` in the following order:
+  Saves all generated data into `accounts.txt` in the following order:
   - Private Keys
   - Seed Phrases
   - Addresses
