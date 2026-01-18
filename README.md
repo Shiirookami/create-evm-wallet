@@ -24,6 +24,7 @@ Generates Ethereum wallets including:
 Save the script or using git fiture`git clone`
 ```bash
 git clone https://github.com/Shiirookami/create-evm-wallet.git
+cd create-evm-wallet
 ```
 
 ### 2. Initialize and install dependencies
